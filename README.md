@@ -7,6 +7,6 @@ This repository contains an Extract, Load, Transform (ELT) pipeline designed for
 3. Transform: Transforms the data leveraging Spark on databricks notebook and pushed transformed data to Snowflake table (airbnb_listings_transformed)
 
 ## Tech Stack
-1. Python: For scription
+1. Python: For scripting
 2. Apache Spark: For data processing
 3. Snowflake: For storing data (data warehousing)
