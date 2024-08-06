@@ -1,2 +1,2 @@
 # airbnb-elt-pipeline
-Extract, Load, Transform Airbnb data pipeline using Spark and Snowflake
+Extract, Load, Transform (ELT) Airbnb data pipeline using Spark and Snowflake
